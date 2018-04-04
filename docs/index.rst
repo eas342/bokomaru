@@ -33,7 +33,7 @@ Boko-Maru is a made-up ritual from a made-up religion in Kurt Vonnegut book, "A 
 
 
 Indices and tables
-==================
+-------------------
 
 * :ref:`genindex`
 * :ref:`search`
