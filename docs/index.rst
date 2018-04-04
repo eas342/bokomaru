@@ -10,7 +10,9 @@ Purpose
 -----------------------------------------------------------------------
 Boko-Maru is general-use pipeline for reducing and analyzing spectroscopic time series.
 It is intended for mainly two science applications: spectra of transiting exoplanets and rotating brown dwarfs.
-It will work on JWST NIRCam data, HST grism data and ground-based spectra (such as IRTF SpeX data).
+
+.. todo::
+   It will work on JWST NIRCam data, HST grism data and ground-based spectra (such as IRTF SpeX data).
 
 Under Construction Warning: Work-in-Progress
 -----------------------------------------------------------------------
